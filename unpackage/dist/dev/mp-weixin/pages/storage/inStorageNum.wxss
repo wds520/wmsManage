@@ -1,0 +1,24 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-d515a64e {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.container .userItem.data-v-d515a64e {
+  margin-bottom: 20rpx;
+}
+.chat-custom-right.data-v-d515a64e {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.chat-custom-text.data-v-d515a64e {
+  font-size: 12px;
+  color: #999;
+}
+.subBtn.data-v-d515a64e {
+  margin-top: 10rpx;
+}

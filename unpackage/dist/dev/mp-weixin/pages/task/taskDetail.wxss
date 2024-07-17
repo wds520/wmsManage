@@ -1,0 +1,55 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-a7c2ede4 {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+  background-color: #fff;
+}
+.container .userItem.data-v-a7c2ede4 {
+  margin-bottom: 20rpx;
+}
+.container.data-v-a7c2ede4 .uni-list-chat__header-warp {
+  display: none;
+}
+.container .item.data-v-a7c2ede4 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eee;
+  border-radius: 20rpx;
+  padding: 10rpx 36rpx;
+  margin-bottom: 20rpx;
+}
+.container .item .val.data-v-a7c2ede4 {
+  color: #666;
+  font-weight: 500;
+}
+.container .item .val-img.data-v-a7c2ede4 {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 10rpx;
+}
+.chat-custom-right.data-v-a7c2ede4 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.chat-custom-text.data-v-a7c2ede4 {
+  font-size: 12px;
+  color: #999;
+}
+.toCreateUser.data-v-a7c2ede4 {
+  margin-bottom: 40rpx;
+}
+.itemtxt.data-v-a7c2ede4 {
+  line-height: 40rpx;
+  color: #333;
+  padding: 10px 0;
+}
+.flex-col.data-v-a7c2ede4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

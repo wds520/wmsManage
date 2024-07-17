@@ -1,0 +1,10 @@
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-1cf27b2a {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.container .mb.data-v-1cf27b2a {
+  margin-bottom: 20px;
+}

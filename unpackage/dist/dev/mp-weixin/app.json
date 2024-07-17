@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/login",
+    "pages/index/index",
+    "pages/user/userList",
+    "pages/user/createUser",
+    "pages/storage/StorageList",
+    "pages/storage/createStorage",
+    "pages/storage/inStorageNum",
+    "pages/car/carList",
+    "pages/car/createCar",
+    "pages/task/taskList",
+    "pages/task/taskDetail",
+    "pages/good/goodsList",
+    "pages/good/goodsDetail",
+    "pages/driver/driverList",
+    "pages/driver/createDriver"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
